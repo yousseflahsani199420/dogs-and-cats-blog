@@ -1,0 +1,11 @@
+services:
+  - type: static_site
+    name: dogs-cats-blog
+    runtime: static
+    buildCommand: hugo --gc --minify
+    staticPublishPath: ./public
+    envVars:
+      - key: HUGO_VERSION
+        value: 0.146.0
+      - key: HUGO_ENV
+        value: production
