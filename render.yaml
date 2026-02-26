@@ -9,3 +9,5 @@ services:
         value: 0.146.0
       - key: HUGO_ENV
         value: production
+      - key: HUGO_EXTENDED
+        value: "true"
