@@ -1,4 +1,5 @@
-baseURL = 'https://dogs-and-cats-tips.onrender.com'
+
+baseURL = 'https://dogs-and-cats-tips.onrender.com
 languageCode = 'en-us'
 title = 'Paws & Care - Dog & Cat Tips'
 theme = 'PaperMod'
