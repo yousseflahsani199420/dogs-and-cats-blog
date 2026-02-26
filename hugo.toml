@@ -1,4 +1,4 @@
-baseURL = 'https://yourdomain.com'
+baseURL = 'https://your-dogs-cats-blog.onrender.com'
 languageCode = 'en-us'
 title = 'Paws & Care - Dog & Cat Tips'
 theme = 'PaperMod'
@@ -58,11 +58,11 @@ theme = 'PaperMod'
     name = '🐈 Cats'
     url = '/cats/'
     weight = 30
- [[menu.main]]
-identifier = 'health'
-name = '🏥 Health'
-pageRef = '/health'  # Absolute path, no trailing slash
-weight = 40
+  [[menu.main]]
+    identifier = 'health'
+    name = '🏥 Health'
+    url = '/health/'
+    weight = 40
   [[menu.main]]
     identifier = 'training'
     name = '🎓 Training'
