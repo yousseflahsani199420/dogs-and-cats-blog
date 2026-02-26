@@ -1,10 +1,11 @@
-baseURL = 'https://your-dogs-cats-blog.onrender.com'
+
+baseURL = 'https://dogs-and-cats-tips.onrender.com
 languageCode = 'en-us'
 title = 'Paws & Care - Dog & Cat Tips'
 theme = 'PaperMod'
 
 [params]
-  author = 'Your Name'
+  author = 'DR . LAHSANI YOUSSEF'
   description = 'Expert tips for dog and cat care, training guides, and pet health advice'
   keywords = ['dog care', 'cat care', 'pet training', 'pet health', 'veterinary tips']
   defaultTheme = 'auto'
